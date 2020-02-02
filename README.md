@@ -1,2 +1,14 @@
-# aprs-yun
-Arduino yun to aprs-is logger
+# APRS for YUN
+
+
+
+## Library docs
+
+
+
+
+
+## Notes
+
+https://github.com/rossengeorgiev/aprs-python/
+
